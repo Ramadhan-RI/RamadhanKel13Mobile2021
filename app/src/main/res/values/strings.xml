@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Bahasa Pemrograman</string>
+    <string name="title">JavaScript</string>
+    <string name="deskripsi">JavaScript</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="bahasa">
+        <item>"JavaScript"</item>
+        <item>"Python"</item>
+        <item>"Java"</item>
+        <item>"PHP"</item>
+        <item>"C#"</item>
+        <item>"C++"</item>
+        <item>"TypeScript"</item>
+        <item>"Shell"</item>
+        <item>"C"</item>
+        <item>"Ruby"</item>
+
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>JavaScript merupakan bahasa pemrograman paling populer di dunia. Hal ini dikarenakan JavaScript merupakan salah satu bahasa utama yang digunakan untuk membangun halaman web...</item>
+        <item>Python adalah salah satu bahasa pemrograman terpopuler dan juga paling cepat berkembang. Dalam hal popularitas, bahasa ini beralih dari tempat ketiga tahun lalu ke tempat kedua pada 2019...</item>
+        <item>Java pertama kali dikembangkan oleh Sun Microsystems pada 1995, yang kemudian diakuisisi oleh Oracle. Bahasa open source ini digunakan oleh perusahaan seperti Twitter dan Netflix,...</item>
+        <item>PHP, yang merupakan singkatan dari Hypertext Preprocessor, adalah bahasa pemrograman open source untuk pengembangan web dan membuat halaman web interaktif...</item>
+        <item>C#, diucapkan “C-sharp,” dikembangkan oleh Microsoft dengan tim yang dipimpin oleh Anders Hejlsberg. Mirip dengan bahasa pemrograman Java, C# digunakan dalam aplikasi seluler, game, dan perangkat lunak perusahaan...</item>
+        <item>Bahasa pemrograman C++ dibangun dari C pada tahun 1979. Bjarne Stroustrup membuatnya ketika ia sedang mengerjakan tesis PhD-nya, sebagai cara untuk menambahkan fitur tambahan ke C...</item>
+        <item>TypeScript adalah bahasa pemrograman open source yang dikembangkan dan dikelola oleh Microsoft. Bahasa ini bukan hanya salah satu yang paling populer, tetapi juga yang paling cepat berkembang. Dengan sintaks dan semantik yang serupa, TypeScript sangat mirip dengan JavaScript,...</item>
+        <item>Shell sangat populer di departemen TI, memungkinkan mereka untuk menulis perintah yang secara langsung memberitahu sistem operasi apa yang harus dilakukan...</item>
+        <item>C adalah salah satu bahasa pemrograman tertua yang masih digunakan hingga saat ini. Dikembangkan oleh Dennis Ritchie pada tahun 1972, bahasa ini dirancang untuk pemrograman beragam sistem komputer dan hardware....</item>
+        <item>Ruby adalah bahasa pemrograman open source yang dibuat oleh Yukihiro “Matz” Matsumoto. Dengan memadukan bagian terbaik dari bahasa favoritnya, Matz membuat Ruby terfokus pada kemudahan penggunaan...</item>
+    </string-array>
+
+</resources>

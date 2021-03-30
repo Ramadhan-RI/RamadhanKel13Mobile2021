@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/bahasa_imageview"
+        android:layout_width="80dp"
+        android:layout_height="120dp"
+        android:src="@drawable/a"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/nama_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:layout_toEndOf="@+id/bahasa_imageview"
+        android:text="@string/title"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/deskripsi_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/bahasa_imageview"
+        android:layout_below="@+id/nama_textview"
+        android:layout_marginStart="10dp"
+        android:layout_gravity="center"
+        android:text="@string/deskripsi"
+        android:textSize="18sp"/>
+
+</RelativeLayout>
